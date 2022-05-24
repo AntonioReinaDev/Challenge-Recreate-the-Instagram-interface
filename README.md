@@ -1,2 +1,3 @@
-# InstagramDioDesafio
-Desafio Digital Innovation One, criar interface Instagram
+# Digital Innovation One
+## Challenge
+#### Recreating Instagram's web interface.
